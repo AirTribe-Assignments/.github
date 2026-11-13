@@ -7,7 +7,7 @@ Each repository is a standalone project with its own README, test output and ste
 
 | # | Project | What it does | Concepts covered | Repo |
 |---|---------|--------------|------------------|------|
-| 1 | Campus Cafe Inventory | Console app to add, view, restock and duplicate cafe products, with stock value and average price | Classes & objects, constructors (default, parameterized, copy), static vs instance variables, arrays, loops, switch, type casting | [cafe-inventory-java](https://github.com/AirTribe-Assignments/cafe-inventory-java) |
+| 1 | Campus Cafe Inventory | Console app to add, view, restock and duplicate cafe products, with stock value and average price | Classes & objects, constructors (default, parameterized, copy), static vs instance variables, arrays, loops, switch, type casting | [cafe-inventory-manager-java](https://github.com/AirTribe-Assignments/cafe-inventory-manager-java) |
 
 ## 🛠️ Tech
 - Java (standard JDK, no external libraries)
